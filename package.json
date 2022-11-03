@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AnnaHelene01/demo-hello-jest/issues"
   },
-  "homepage": "https://github.com/AnnaHelene01/demo-hello-jest#readme"
+  "homepage": "https://github.com/AnnaHelene01/demo-hello-jest#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
 }
